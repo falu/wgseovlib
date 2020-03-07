@@ -1,1 +1,3 @@
-# wgseovlib-php-mysql
+# wgseovlib
+
+http://wgseov.freegeo.info/
